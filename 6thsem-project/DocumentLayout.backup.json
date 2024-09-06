@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|c:\\users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\servicebooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\servicebooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\Contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\sliderusercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\sliderusercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\Success.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\Profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\MAdmin\\Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\rzrpay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\rzrpay.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\templetfile\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\templetfile\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\servicebooking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\servicebooking.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\MAdmin\\Users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\user\\menu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\user\\menu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\admin\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\admin\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\templetfile\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\jquery\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\assets\\js\\jquery\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\pcoded.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\assets\\js\\pcoded.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\script.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\assets\\js\\script.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\assets\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Contacts2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Contacts2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\Contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Report.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Report.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\MAdmin\\Dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\Admin\\Dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Registartion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\Registartion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\MAdmin\\MAdmin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\MAdmin\\MAdmin.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\rzrpay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\rzrpay.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Invoice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2129C7C9-1F23-4AFC-8A75-84675BC8CD3C}|6thsem-project\\6thsem-project.csproj|solutionrelative:6thsem-project\\User\\Invoice.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\css\\style.css",
+              "RelativeDocumentMoniker": "6thsem-project\\templetfile\\css\\style.css",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\css\\style.css",
+              "RelativeToolTip": "6thsem-project\\templetfile\\css\\style.css",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAAALUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T00:53:28.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\css\\style.scss",
+              "RelativeDocumentMoniker": "6thsem-project\\templetfile\\css\\style.scss",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\css\\style.scss",
+              "RelativeToolTip": "6thsem-project\\templetfile\\css\\style.scss",
+              "ViewState": "AgIAAEwBAAAAAAAAAAArwF0BAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-09-06T00:48:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceBooking.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\ServiceBooking.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\ServiceBooking.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\ServiceBooking.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\ServiceBooking.aspx.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwEIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T00:16:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceBooking.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\ServiceBooking.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\ServiceBooking.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\ServiceBooking.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\ServiceBooking.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T00:14:24.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Menu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Menu.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Menu.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Menu.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Menu.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:41:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderUserControl1.ascx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\SliderUserControl1.ascx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\SliderUserControl1.ascx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\SliderUserControl1.ascx",
+              "RelativeToolTip": "6thsem-project\\User\\SliderUserControl1.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-09-05T21:35:16.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\AboutUs.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\AboutUs.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T20:46:41.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Default.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Default.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T18:23:29.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.Master.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Admin.Master.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Admin.Master.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Admin.Master.cs",
+              "RelativeToolTip": "6thsem-project\\Admin\\Admin.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:41:11.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Web.config",
+              "RelativeDocumentMoniker": "6thsem-project\\Web.config",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Web.config",
+              "RelativeToolTip": "6thsem-project\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-05T17:27:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Default.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Default.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menu.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Menu.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Menu.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Menu.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\js\\custom.js",
+              "RelativeDocumentMoniker": "6thsem-project\\templetfile\\js\\custom.js",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\templetfile\\js\\custom.js",
+              "RelativeToolTip": "6thsem-project\\templetfile\\js\\custom.js",
+              "ViewState": "AQIAAFoAAAAAAAAAAADwv4AAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T07:14:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Product.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Product.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Product.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\jquery\\jquery.min.js",
+              "RelativeDocumentMoniker": "6thsem-project\\assets\\js\\jquery\\jquery.min.js",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\jquery\\jquery.min.js",
+              "RelativeToolTip": "6thsem-project\\assets\\js\\jquery\\jquery.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T07:14:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "pcoded.min.js",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\pcoded.min.js",
+              "RelativeDocumentMoniker": "6thsem-project\\assets\\js\\pcoded.min.js",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\pcoded.min.js",
+              "RelativeToolTip": "6thsem-project\\assets\\js\\pcoded.min.js",
+              "ViewState": "AQIAALIDAAAAAAAAAAAQwF0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T07:14:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "script.min.js",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\script.min.js",
+              "RelativeDocumentMoniker": "6thsem-project\\assets\\js\\script.min.js",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\script.min.js",
+              "RelativeToolTip": "6thsem-project\\assets\\js\\script.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\script.js",
+              "RelativeDocumentMoniker": "6thsem-project\\assets\\js\\script.js",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\assets\\js\\script.js",
+              "RelativeToolTip": "6thsem-project\\assets\\js\\script.js",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Profile.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Profile.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Profile.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.Master",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\User.Master",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\User.Master",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\User.Master",
+              "RelativeToolTip": "6thsem-project\\User\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Connection.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Connection.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Connection.cs",
+              "RelativeToolTip": "6thsem-project\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Contact.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Contact.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Contact.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Contacts2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Contacts2.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\Admin\\Contacts2.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA0wE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Contacts2.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Contacts2.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Contacts2.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Contacts2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rzrpay.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\rzrpay.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\rzrpay.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\rzrpay.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\rzrpay.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Contact.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Contact.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwD0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Report.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Report.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Report.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Report.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\Admin\\Report.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Report.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Report.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Report.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Report.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Report.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Users.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Users.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\Users.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Users.aspx",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\Users.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\Admin\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Registartion.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Registartion.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Registartion.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Registartion.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Registartion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Login.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Login.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Login.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MAdmin.Master",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\MAdmin.Master",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\MAdmin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Users.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Users.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Users.aspx",
+              "RelativeToolTip": "6thsem-project\\Admin\\Users.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MAdmin.Master.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\MAdmin\\MAdmin.Master.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\MAdmin\\MAdmin.Master.cs",
+              "RelativeToolTip": "6thsem-project\\MAdmin\\MAdmin.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Login.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\Login.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "6thsem-project\\Admin\\Admin.Master",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\Admin\\Admin.Master",
+              "RelativeToolTip": "6thsem-project\\Admin\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Success.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Success.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Success.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Success.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Success.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "rzrpay.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\rzrpay.aspx.cs",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\rzrpay.aspx.cs",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\rzrpay.aspx.cs",
+              "RelativeToolTip": "6thsem-project\\User\\rzrpay.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:14:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Invoice.aspx",
+              "DocumentMoniker": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Invoice.aspx",
+              "RelativeDocumentMoniker": "6thsem-project\\User\\Invoice.aspx",
+              "ToolTip": "C:\\Users\\soni2\\source\\repos\\6thsem-project\\6thsem-project\\User\\Invoice.aspx",
+              "RelativeToolTip": "6thsem-project\\User\\Invoice.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T07:14:39.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
